@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS12ToVs10Converter", "VS12ToVs10Converter\VS12ToVs10Converter.csproj", "{3006BF7C-8DD9-421C-B73E-568E6806B8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinObjCleaner", "BinObjCleaner\BinObjCleaner.csproj", "{37748AB6-E014-48FD-B137-A401A2188526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3006BF7C-8DD9-421C-B73E-568E6806B8FF}.Debug|x86.ActiveCfg = Debug|x86
+		{3006BF7C-8DD9-421C-B73E-568E6806B8FF}.Debug|x86.Build.0 = Debug|x86
+		{3006BF7C-8DD9-421C-B73E-568E6806B8FF}.Release|x86.ActiveCfg = Release|x86
+		{3006BF7C-8DD9-421C-B73E-568E6806B8FF}.Release|x86.Build.0 = Release|x86
+		{37748AB6-E014-48FD-B137-A401A2188526}.Debug|x86.ActiveCfg = Debug|x86
+		{37748AB6-E014-48FD-B137-A401A2188526}.Debug|x86.Build.0 = Debug|x86
+		{37748AB6-E014-48FD-B137-A401A2188526}.Release|x86.ActiveCfg = Release|x86
+		{37748AB6-E014-48FD-B137-A401A2188526}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
